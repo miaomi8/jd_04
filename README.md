@@ -1,5 +1,5 @@
 * 不允许Fork
-* 2.导入新仓库 点击导入仓库
+* 2.导入新仓库 [点击导入仓库](https://github.com/new/import)
 
 Your old repository’s clone URL 填入 https://github.com/miaomi8/jd_04 ，Your new repository details处填写导入后自己的repository名称，其它按默认， 点击Begin import，等待导入完成。
 
